@@ -1,0 +1,8 @@
+{
+  "name": "simplemodal",
+  "version": "1.4.4",
+  "main": "./simplemodal.js",
+  "dependencies": {
+    "jquery": "1.9.x"
+  }
+}
